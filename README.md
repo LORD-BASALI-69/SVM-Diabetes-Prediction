@@ -1,14 +1,14 @@
 # <div align="center">🩺 SVM Diabetes Prediction</div>
 
 <div align="center">
-
-[![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/) [![Machine Learning](https://img.shields.io/badge/ML-Support%20Vector%20Machine-orange.svg)](https://scikit-learn.org/) [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/) [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-blue.svg)](https://scikit-learn.org/) [![pandas](https://img.shields.io/badge/pandas-1.3%2B-blue.svg)](https://pandas.pydata.org/) [![numpy](https://img.shields.io/badge/numpy-1.21%2B-blue.svg)](https://numpy.org/)
-
+  <h3>🤖 Machine Learning Model for Diabetes Prediction using Support Vector Machine</h3>
+  <p><em>Predicting diabetes risk using medical indicators with high accuracy SVM classification</em></p>
 </div>
 
 <div align="center">
-  <h3>🤖 Machine Learning Model for Diabetes Prediction using Support Vector Machine</h3>
-  <p><em>Predicting diabetes risk using medical indicators with high accuracy SVM classification</em></p>
+
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/) [![Machine Learning](https://img.shields.io/badge/ML-Support%20Vector%20Machine-orange.svg)](https://scikit-learn.org/) [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/) [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-blue.svg)](https://scikit-learn.org/) [![pandas](https://img.shields.io/badge/pandas-1.3%2B-blue.svg)](https://pandas.pydata.org/) [![numpy](https://img.shields.io/badge/numpy-1.21%2B-blue.svg)](https://numpy.org/)
+
 </div>
 
 ---
